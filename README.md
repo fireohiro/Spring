@@ -1,5 +1,5 @@
 # Spring  [
-一覧表示
+一覧表
 ![demo](list.gif)
 追加処理
 ![demo](add.gif)
@@ -7,3 +7,4 @@
 ![demo](update.gif)
 削除処理
 ![demo](delete.gif)
+]
